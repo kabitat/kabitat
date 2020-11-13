@@ -2,7 +2,7 @@
 
 I'm a data and insight analyst, I use python, SQL and Excel to clean and draw insight from data! 
 
-I'm always improving my skills and learning new things, and looking forward to expanding my career in data through machine learning projects and learning data engineering principles.
+I'm always improving my skills and learning new things, and looking forward to expanding my career in data through machine learning projects and applying data engineering principles.
 
 
 - 🔭 I’m currently working on NLP; drawing insight from a Wikipedia scrape I've done: American movies from 1995.
